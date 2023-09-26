@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vikas Kumar</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v-kumarx&label=Profile%20views&color=0e75b6&style=flat" alt="v-kumarx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-kumarx" alt="v-kumarx" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/v-kumarx](https://github.com/v-kumarx)
 
 <h3 align="left">Connect with me:</h3>
