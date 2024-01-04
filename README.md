@@ -4,7 +4,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=v-kumarx" alt="v-kumarx" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/v-kumarx](https://github.com/v-kumarx)
-- 🌐 My Github Website are available at [https://v-kumarx.github.io](https://v-kumarx.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
